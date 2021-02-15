@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613417006 source:c:\users\eduardo\documents\ufsc\monitoria\estrutura\estrutura\main.cpp
+	<iostream>
+	<string.h>
+
